@@ -60,8 +60,8 @@ Berikut adalah beberapa project yang sedang atau telah saya kerjakan:
     Animasi Snake/Pacman yang akan otomatis memakan grid kontribusi kamu
   -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Welep/Welep/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Welep/Welep/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Welep/Welep/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeptiaDev/SeptiaDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeptiaDev/SeptiaDev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SeptiaDev/SeptiaDev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
